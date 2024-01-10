@@ -1,2 +1,2 @@
 # fix-bugs
-Some ways to fixed bugs that I have been finding.
+Some ways to fix bugs that I've been finding.
